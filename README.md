@@ -1,6 +1,8 @@
 # Kubernetes API Walkthrough
 Simple walkthrough of Kubernetes API
 
+You can also execute the [shell script](https://github.com/janakiramm/k8s-api-tutorial/blob/master/k8s-api.sh) to perform these steps.
+
 Install [JQ](https://stedolan.github.io/jq/) before trying the commands.
 Make sure that you have access to a Kubernetes cluster.
 
