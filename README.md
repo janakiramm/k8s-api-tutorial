@@ -1,2 +1,2 @@
-# k8s-api-tutorial
+# Kubernetes API Walkthrough
 Simple walkthrough of Kubernetes API
